@@ -1,0 +1,1 @@
+# Reviving-an-HP-EliteOne-Gen2-with-Linux-Mint-Overview
