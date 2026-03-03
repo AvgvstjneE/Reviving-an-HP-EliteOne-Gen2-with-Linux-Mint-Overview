@@ -76,10 +76,10 @@ Clearing secure boot keys allowed the Linux kernel to register itself and resolv
 ![Secure Boot](screenshots/secure-boot.jpg)
 
 ### Linux Mint Desktop
-![Desktop](screenshots/desktop.jpg)
+![Desktop](Linux-Mint-Home.jpg)
 
 ### Touchscreen Detection
-![xinput list](screenshots/xinput-list.jpg)
+![xinput list](touchscreen.jpg)
 
 ### Firewall Status
-![Firewall](screenshots/firewall.jpg)
+![Firewall](codecs-and-firewall.jpg)
