@@ -76,10 +76,10 @@ Clearing secure boot keys allowed the Linux kernel to register itself and resolv
 ![Secure Boot](screenshots/secure-boot.jpg)
 
 ### Linux Mint Desktop
-![Desktop](Linux-Mint-Home.jpg)
+![Desktop](https://github.com/AvgvstjneE/Reviving-an-HP-EliteOne-Gen2-with-Linux-Mint-Overview/blob/main/screenshots/Linux-Mint-Home.jpg)
 
 ### Touchscreen Detection
-![xinput list](touchscreen.jpg)
+![xinput list](https://github.com/AvgvstjneE/Reviving-an-HP-EliteOne-Gen2-with-Linux-Mint-Overview/blob/main/screenshots/touchscreen.jpg)
 
 ### Firewall Status
-![Firewall](codecs-and-firewall.jpg)
+![Firewall](https://github.com/AvgvstjneE/Reviving-an-HP-EliteOne-Gen2-with-Linux-Mint-Overview/blob/main/screenshots/codecs-and-firewall.jpg)
