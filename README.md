@@ -69,12 +69,6 @@ Clearing secure boot keys allowed the Linux kernel to register itself and resolv
 
 ## Screenshots
 
-### BIOS Configuration
-![BIOS Settings](screenshots/bios-settings.jpg)
-
-### Secure Boot Keys Cleared
-![Secure Boot](screenshots/secure-boot.jpg)
-
 ### Linux Mint Desktop
 ![Desktop](https://github.com/AvgvstjneE/Reviving-an-HP-EliteOne-Gen2-with-Linux-Mint-Overview/blob/main/screenshots/Linux-Mint-Home.jpg)
 
